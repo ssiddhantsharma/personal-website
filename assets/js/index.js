@@ -1,0 +1,1 @@
+$("button").click(function(){$(this).toggleClass("clicked"),$("button b").text(function(t,e){return"Sure !"===e?"Visit Website":"Sure !"})});
