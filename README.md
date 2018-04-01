@@ -1,4 +1,4 @@
-# Hello people, Siddhant here!
+# Hello People, Siddhant Here!
 💻 My Personal Website, there are many like this one out there but still this one's mine!
 
 Welcome to the workings of the little Web-Page I created for myself a little while ago.
